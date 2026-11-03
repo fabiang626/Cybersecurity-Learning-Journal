@@ -1,0 +1,39 @@
+**Platform:** TryHackMe
+**Room:** Linux Fundamentals Part 1
+**Difficulty:** Beginner
+**Date Completed:** 2026-10-16
+**Category:** Linux
+
+---
+
+# Room Summary
+
+This room introduced the Linux operating system and basic command-line interaction. The focus was learning how to navigate directories, inspect files, search for information, and become comfortable working within a terminal environment.
+
+---
+
+# Concepts Learned
+
+## Linux Terminal Navigation
+
+The Linux terminal provides a command-line interface (CLI) that allows users to interact with the operating system through text-based commands.
+
+Rather than clicking through folders with a graphical interface, users can navigate and manage the system directly through commands.
+
+### Cybersecurity Relevance
+
+Many cybersecurity tools run entirely through the command line. Security analysts, penetration testers, incident responders, and system administrators frequently use Linux terminals to investigate systems and perform security tasks.
+
+---
+
+## Directory Navigation Commands
+
+### whoami
+
+Displays the current user account.
+
+Example:
+
+```bash
+whoami
+
