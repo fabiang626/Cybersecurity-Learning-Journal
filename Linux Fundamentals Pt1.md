@@ -6,9 +6,9 @@
 
 ---
 
-# Room Summary
+## Overview
 
-This room introduced the Linux operating system and basic command-line interaction. The focus was learning how to navigate directories, inspect files, search for information, and become comfortable working within a terminal environment.
+Learned about the Linux Operating System and how it is heavily utilized in the cybersecurity field. I learned basic Linux commands to navigate through folders and files, as well as search for specific files and text. The goal was to build familiarity with working in a terminal environment.
 
 ---
 
@@ -25,16 +25,36 @@ Rather than clicking through folders with a graphical interface, users can navig
 Many cybersecurity tools run entirely through the command line. Security analysts, penetration testers, incident responders, and system administrators frequently use Linux terminals to investigate systems and perform security tasks.
 
 ---
-![Linux Navigation](LinuxFund1.png)
 
 ## Directory Navigation Commands
 
-### whoami
+## Commands Learned
 
-Displays the current user account.
+| Command | Purpose |
+|----------|----------|
+| whoami | Display current user |
+| pwd | Display current directory |
+| ls | List files and folders |
+| cd | Change directories |
+| cat | View file contents |
+| find | Search for files |
+| grep | Search for text |
+| echo | Output text |
 
-Example:
+## Hands-On Activities
+## Task 1
+## Objective
+Understand how to use basic commands on linux, focused mostly on navigating through different directories and files.
+## Steps Taken
+1. Understand where I am in the directories using basic linux commands. 
+2. Move to different directories and create/ edit files using basic linux commands.
+3. Understanding how to search through files or directories.
+## Result
+After understanding the principle linux commands taught I was able to find the THM flag in the access.log.
+## Evidence
+Screenshots:
 
-```bash
-whoami
+![Linux Navigation](LinuxFund1.png)
+![Linux Navigation](LinuxFund2.png)
+![Linux Navigation](LinuxFund3.png)
 
