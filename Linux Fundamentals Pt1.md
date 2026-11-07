@@ -58,3 +58,7 @@ Screenshots:
 ![Linux Navigation](LinuxFund2.png)
 ![Linux Navigation](LinuxFund3.png)
 
+
+# Reflection
+I completed this room once before but forgot all the commands. After completing this room again and really taking my time to understand these basic Linux commands, I am now able to move through the Linux terminal like an experienced user.
+
