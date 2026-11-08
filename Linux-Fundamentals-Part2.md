@@ -36,6 +36,7 @@ Commands learned included:
 ## Why It Matters
 
 Security professionals frequently interact with files, logs, scripts, and reports. Knowing how to manage files efficiently from the terminal is an important skill when working with Linux.
+
 ---
 
 ## Linux Permissions
