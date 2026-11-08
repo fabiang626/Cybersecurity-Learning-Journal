@@ -5,6 +5,7 @@
 **Difficulty:** Beginner  
 **Date Completed:** 2026-10-16  
 **Category:** Linux
+
 ---
 
 ## Overview
