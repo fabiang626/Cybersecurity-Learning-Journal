@@ -35,7 +35,7 @@ Commands learned included:
 
 ### Why It Matters
 
-Security professionals frequently interact with files, logs, scripts, and reports. 
+Security professionals frequently interact with files, logs, scripts, and reports. Knowing how to manage files efficiently from the terminal is an important skill when working with Linux.
 ---
 
 ## Linux Permissions
@@ -82,4 +82,22 @@ After understanding the principle linux commands taught I was able to find the T
 
 ### Evidence
 
+File System Managment:
+![Linux File/Directory Management](LinuxFund2_1.png)
 
+Permissions List: 
+![Linux Permissions](LinuxFund2_2.png)
+
+# Key Takeaways
+
+- Learned how to create, delete, move, and copy files and directories.
+- Learned how Linux permissions are structured.
+- Learned how to interpret owner, group, and other permissions.
+- Gained confidence using the Linux command line.
+  
+# Reflection
+
+I was very intimidated at first with how to manage the files and directories through the Linux command line. 
+I'm so used to working with the Windows GUI where creating, deleting copying files and folders with a few simple clicks.
+But this room has helped me to have more confidence on file management and understanding more about what file permissions are and how to view who has what type of access to each file or directory.
+I'm going to continue to practice these commands and learn how to change permissions for files so I can get more comfortable handling these things in the industry.
