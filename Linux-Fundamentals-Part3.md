@@ -109,15 +109,15 @@ Being able to analyze logs is important to be able to figure out who accessed wh
 
 ## Editing Files
 
-(Add screenshot)
+![Linux File_Edit](Images/LinuxFund3_1.png)
 
-## Processes
+## Download File
 
-(Add screenshot)
+![Linux File_Download](Images/LinuxFund3_2.png)
 
 ## Log Analysis
 
-(Add screenshot)
+![Linux Log](Images/LinuxFund3_3.png)
 
 ---
 
