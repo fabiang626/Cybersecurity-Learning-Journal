@@ -113,11 +113,11 @@ Being able to analyze logs is important to be able to figure out who accessed wh
 
 ## Download File
 
-![Linux File_Download](Images/LinuxFund3_2.png)
+![Linux File_Download](Images/LinuxFund_3_3.png)
 
 ## Log Analysis
 
-![Linux Log](Images/LinuxFund3_3.png)
+![Linux log](Images/LinuxFund3_2.png)
 
 ---
 
