@@ -38,6 +38,7 @@ The purpose of this repository is to:
 
 - [Linux Fundamentals Part 1](Linux-Fundamentals-Part1.md)
 - [Linux Fundamentals Part 2](Linux-Fundamentals-Part2.md)
+- [Linux Fundamentals Part 3](Linux-Fundamentals-Part3.md)
 
 ---
 
