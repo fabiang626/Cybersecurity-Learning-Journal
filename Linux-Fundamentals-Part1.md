@@ -1,9 +1,10 @@
-**Platform:** TryHackMe
-**Room:** Linux Fundamentals Part 1
-**Difficulty:** Beginner
-**Date Completed:** 2026-10-16
-**Category:** Linux
+# Linux Fundamentals Part 1
 
+**Platform:** TryHackMe  
+**Room:** Linux Fundamentals Part 2  
+**Difficulty:** Beginner  
+**Date Completed:** 2026-10-16  
+**Category:** Linux
 ---
 
 ## Overview
