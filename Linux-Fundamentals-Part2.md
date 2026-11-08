@@ -33,7 +33,7 @@ Commands learned included:
 | file | Identify file types |
 | ls -l | View file permissions |
 
-### Why It Matters
+## Why It Matters
 
 Security professionals frequently interact with files, logs, scripts, and reports. Knowing how to manage files efficiently from the terminal is an important skill when working with Linux.
 ---
@@ -83,10 +83,10 @@ After understanding the principle linux commands taught I was able to find the T
 ### Evidence
 
 File System Managment:
-![Linux File/Directory Management](LinuxFund2_1.png)
+![Linux File/Directory Management](Images/LinuxFund2_1.png)
 
 Permissions List: 
-![Linux Permissions](LinuxFund2_2.png)
+![Linux Permissions](Images/LinuxFund2_2.png)
 
 # Key Takeaways
 
