@@ -54,9 +54,9 @@ After understanding the principle linux commands taught I was able to find the T
 ## Evidence
 Screenshots:
 
-![Linux Navigation](LinuxFund1.png)
-![Linux Navigation](LinuxFund2.png)
-![Linux Navigation](LinuxFund3.png)
+![Linux Navigation](Images/LinuxFund1.png)
+![Linux Navigation](Images/LinuxFund2.png)
+![Linux Navigation](Images/LinuxFund3.png)
 
 
 # Reflection
