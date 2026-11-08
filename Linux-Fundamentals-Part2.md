@@ -82,10 +82,10 @@ After understanding the principle linux commands taught I was able to find the T
 
 ### Evidence
 
-File System Managment:
+#### File System Managment:
 ![Linux File/Directory Management](Images/LinuxFund2_1.png)
 
-Permissions List: 
+#### Permissions List: 
 ![Linux Permissions](Images/LinuxFund2_2.png)
 
 # Key Takeaways
